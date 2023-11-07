@@ -30,3 +30,11 @@ nav {
     padding: 20px 150px;
     z-index: 222;
 }
+
+.logo {
+    font-size: 50px;
+    color: #fff;
+    font-weight: 500;
+    text-decoration: none;
+    color: var(--secondary)
+}
