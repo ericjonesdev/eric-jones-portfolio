@@ -7,3 +7,17 @@
     box-sizing: border-box;
     font-family: Poppins, sans-serif;
 }
+
+:root {
+    --primary: #fff;
+    --secondary: #0c0a0a;
+    --textcolor: #ec1010;
+}
+
+.container {
+    position: relative;
+    min-height: 100vh;
+    width: 100%;
+    background: var(--primary);
+    overflow: hidden;
+}
